@@ -4,7 +4,7 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
 
 ### Sommaire
 
-  - [Mode de validation](#Mmde)
+  - [Mode de validation](#mode-de-validation)
   - [Ressources](#ressources)
 
 ### Mode de validation
@@ -38,7 +38,7 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
 - L'exploration devra être publiée sur notre [fonio](https://fonio.medialab.sciences-po.fr/carlines), soit en l'intégrant dans un média, soit via un simple lien vers l'URL de votre rendu.
 
 
-### Ressources:
+### Ressources
 
 Vous trouverez ci-dessous une liste de ressources que j'ai trouvées pertinentes si vous souhaitez approfondir certains sujets.
 Les ressources mises en avant par Dominique Cardon dans son MOOC sont aussi une mine d'or pour comprendre les sujets numériques.
