@@ -4,13 +4,13 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
 
 ### Sommaire
 
-  - [Comment fonctionne internet ?](1-comment-fonctionne-internet-)
-  - [Qu'est ce qu'un "bug" ?](2-quest-ce-quun-bug-)
-  - [Peut-on rester anonyme en ligne ?](3-peut-on-rester-anonyme-en-ligne-)
-  - [Les GAFAMS remplaceront-ils un jour les Etats ?](4-les-gafams-remplaceront-ils-un-jour-les-etats-)
-  - [Quel est le QI de l'intelligence artificielle ?](5-quel-est-le-qi-de-lintelligence-artificielle-)
-  - [Atelier débuggage des explorations](6-tbd-atelier-débuggage-des-explorations)
-  - [Conclusion et rendu des explorations](7-conclusion-et-rendu-des-explorations)
+  - [Comment fonctionne internet ?](#1-comment-fonctionne-internet-) [(slides)](01)
+  - [Qu'est ce qu'un "bug" ?](#2-quest-ce-quun-bug-)
+  - [Peut-on rester anonyme en ligne ?](#3-peut-on-rester-anonyme-en-ligne-)
+  - [Les GAFAMS remplaceront-ils un jour les Etats ?](#4-les-gafams-remplaceront-ils-un-jour-les-etats-)
+  - [Quel est le QI de l'intelligence artificielle ?](#5-quel-est-le-qi-de-lintelligence-artificielle-)
+  - [Atelier débuggage des explorations](#6-tbd-atelier-débuggage-des-explorations)
+  - [Conclusion et rendu des explorations](#7-conclusion-et-rendu-des-explorations)
   - [Mode de validation](#mode-de-validation)
   - [Ressources](#ressources)
 
