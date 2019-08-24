@@ -7,6 +7,46 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
   - [Mode de validation](#mode-de-validation)
   - [Ressources](#ressources)
 
+### 1. Comment fonctionne internet ?
+
+  - Introduction
+  - TCP/IP
+  - HTTP
+
+### 2. Atelier d'initation au code
+
+  - Panorama des technologies du web
+  - HTML/CSS
+  - Python ?
+
+### 3. Peut-on rester anonyme en ligne ?
+
+  - Chiffrement
+  - Cybersécurité
+  - Dark Web
+  - Hackers
+
+### 4. Les GAFAMS remplaceront-ils un jour les Etats ?
+
+  - Economie des platformes
+  - Effets de réseau
+  - Prospective
+
+### 5. Quel est le QI de l'intelligence artificielle ?
+
+  - Big data
+  - Intelligence artificielle
+  - Statistiques
+
+### 6. TBD: Atelier débuggage des explorations
+
+  - A déterminer en fonction des formats des explorations.
+
+### 7. Conclusion et rendu des explorations
+
+  - Présentation orale des explorations
+  - Questions/Réponses entre les étudiants
+
 ### Mode de validation
 
 #### 1. Participation (10%):
