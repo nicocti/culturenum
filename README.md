@@ -2,8 +2,12 @@
 
 Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à décoder les univers numériques.
 
+### Sommaire
 
-### Mode de va!idation
+  - [Mode de validation](#Mmde)
+  - [Ressources](#ressources)
+
+### Mode de validation
 
 #### 1. Participation (10%):
 
@@ -24,16 +28,14 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
     - les difficultés que vous pensez rencontrer pour mener à bien votre enquête
     - une bibliographie indicative
 
-#### 3. Exploration numérique (70%) - Deadline:
+#### 3. Exploration numérique (70%) - Deadline TBD:
 
 - Par groupe de 3 ou 4, vous devrez conduire une enquête sur une pratique, un service, une entreprise, etc. du numérique.
-- La restitution de votre exploration devra être faite sous un format numérique (site web, vidéo, podcast, mais aussi éventuellement compte Facebook, Instagram, etc.)
-- Ce dossier devra s’appuyer sur travail de recherche bibliographique et webographique
+- La restitution de votre exploration devra être faite sous un format numérique (site web, vidéo, podcast, mais aussi éventuellement compte Facebook, Instagram, etc.).
+- Ce dossier devra s’appuyer sur travail de recherche bibliographique et webographique.
 - Et devra comprendre une présentation de votre problématique, de vos méthodes d’enquête (entretiens, questionnaire en ligne, protocoles expérimentaux, ethnographie en ligne, etc.) ; de vos analyses et interprétations ; ainsi qu’une synthèse des résultats obtenus.
 - Essayez d’être créatif et de donner un ton personnel à votre exploration en la connectant à votre vie quotidienne, à vos centres d’intérêt (artistiques, associatifs, etc) ou à vos usages personnels de certains outils numériques.
-
-
-
+- L'exploration devra être publiée sur notre [fonio](https://fonio.medialab.sciences-po.fr/carlines), soit en l'intégrant dans un média, soit via un simple lien vers l'URL de votre rendu.
 
 
 ### Ressources:
@@ -41,7 +43,6 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
 Vous trouverez ci-dessous une liste de ressources que j'ai trouvées pertinentes si vous souhaitez approfondir certains sujets.
 Les ressources mises en avant par Dominique Cardon dans son MOOC sont aussi une mine d'or pour comprendre les sujets numériques.
 
-  - [fonio](https://fonio.medialab.sciences-po.fr/carlines)
   - https://www.franceinter.fr/emissions/un-jour-dans-le-monde/un-jour-dans-le-monde-21-avril-2016
   - https://www.youtube.com/watch?v=XE_FPEFpHt4
   - https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7
