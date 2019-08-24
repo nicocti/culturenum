@@ -13,9 +13,10 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
   - TCP/IP
   - HTTP
 
-### 2. Atelier d'initation au code
+### 2. Qu'est ce qu'un "bug" ?
 
   - Panorama des technologies du web
+  - Atelier d'initation au code
   - HTML/CSS
   - Python ?
 
