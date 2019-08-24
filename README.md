@@ -4,13 +4,13 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
 
 ### Sommaire
 
-  - [Comment fonctionne internet ?](#1-comment-fonctionne-internet-) [(slides)](01)
-  - [Qu'est ce qu'un "bug" ?](#2-quest-ce-quun-bug-)
-  - [Peut-on rester anonyme en ligne ?](#3-peut-on-rester-anonyme-en-ligne-)
-  - [Les GAFAMS remplaceront-ils un jour les Etats ?](#4-les-gafams-remplaceront-ils-un-jour-les-etats-)
-  - [Quel est le QI de l'intelligence artificielle ?](#5-quel-est-le-qi-de-lintelligence-artificielle-)
-  - [Atelier débuggage des explorations](#6-tbd-atelier-débuggage-des-explorations)
-  - [Conclusion et rendu des explorations](#7-conclusion-et-rendu-des-explorations)
+  - [1. Comment fonctionne internet ?](#1-comment-fonctionne-internet-) [(slides)](01)
+  - [2. Qu'est ce qu'un "bug" ?](#2-quest-ce-quun-bug-)
+  - [3. Peut-on rester anonyme en ligne ?](#3-peut-on-rester-anonyme-en-ligne-)
+  - [4. Les GAFAMS remplaceront-ils un jour les Etats ?](#4-les-gafams-remplaceront-ils-un-jour-les-etats-)
+  - [5. Quel est le QI de l'intelligence artificielle ?](#5-quel-est-le-qi-de-lintelligence-artificielle-)
+  - [6. Atelier débuggage des explorations](#6-tbd-atelier-débuggage-des-explorations)
+  - [7. Conclusion et rendu des explorations](#7-conclusion-et-rendu-des-explorations)
   - [Mode de validation](#mode-de-validation)
   - [Ressources](#ressources)
 
@@ -62,7 +62,7 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
   - Il vous sera demandé d’être activement engagé pendant le cours et d’intervenir régulièrement pour enrichir les discussions collectives.
   - Toutefois, votre note de participation ne reposera pas uniquement sur votre prise de parole en présentiel.
   - La qualité de votre écoute et de votre attention sera aussi prise en compte.
-  - Et vous pourrez également participer “de façon numérique” en envoyant des articles, des réflexions, etc. aux autres étudiants de la classe dans les groupes de discussion du cours (le mieux serait d'[ouvrir une issue](https://github.com/nicocti/culturenum/issues) sur le repository qui héberge cette page web ainsi que les slides du cours).
+  - Et vous pourrez également participer “de façon numérique” en envoyant des articles, des réflexions, etc. aux autres étudiants de la classe dans les groupes de discussion du cours (le mieux serait d'[ouvrir une issue]({{issues_url}}) sur le repository qui héberge cette page web ainsi que les slides du cours).
 
 #### 2. Note de synthèse (20%) - Deadline 18/09 (groupe 1) ; 24/09 (groupe 2):
 
