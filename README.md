@@ -1,6 +1,8 @@
 ## Culture et enjeux du numérique
 
-Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à décoder les univers numériques.
+Je vous recommande à toutes et à tous de regarder les vidéos du Mooc de Dominique Cardon, très complètes,
+accessibles et bien mises en forme et qui ne sont - à ma connaissance - pas disponible ailleurs.
+
 
 ### Sommaire
 
@@ -17,15 +19,29 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
 ### 1. Comment fonctionne internet ?
 
   - Introduction
-  - TCP/IP
-  - HTTP
+  - Plongée dans les coulisses du réseau des réseaux.
+    - Internet: Le protocole TCP/IP et le DNS
+    - Le web: Le protocole HTTP(S)
+  - Comment la technique influe sur la politique ?
+  - **Ressources supplémentaires:**
+    - [Andrew Blum - What is the internet ?](https://youtube.com/watch?v=XE_FPEFpHt4)
+    - [Code.org - How the internet works ?](https://youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+    - [Le dessous des cartes - Géopolitique des câbles sous-marins](https://youtube.com/watch?v=Cb7ibgRivwU)
+    - [Le dessous des cartes - L'Internet est-il géopolitique ?](https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/le-dessous-des-cartes-l-internet-est-il-geopolitique-1-2)
+    - [Le Monde - Comment la 5G est devenue un enjeu géopolitique](https://youtube.com/watch?v=HxBv6zqzCHc)
 
 ### 2. Qu'est ce qu'un "bug" ?
 
-  - Panorama des technologies du web
+  - Comment fonctionne un ordinateur ?
+  - Qu'est ce qu'un logiciel "open source" ?
+  - Panorama des technologies du web:
+    - HTML / CSS
+    - Javascript
   - Atelier d'initation au code
-  - HTML/CSS
-  - Python ?
+  - **Ressources supplémentaires:**
+    - [Code.org - How computers work ?](https://youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+    - [Code.org - Computer Science Principles](https://youtube.com/playlist?list=PLzdnOPI1iJNfV5ljCxR8BZWJRT_m_6CpB)
+    - [Harvard CS50 - Understanding technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 
 ### 3. Peut-on rester anonyme en ligne ?
 
@@ -33,12 +49,29 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
   - Cybersécurité
   - Dark Web
   - Hackers
+  - RGPD
+  - **Ressources supplémentaires:**
+    - [Marc Meillassoux, Mihaela Gladovic - Nothing to hide](https://www.youtube.com/watch?v=djbwzEIv7gE)
+    - [Alexandre Valenti - Un oeil sur vous, citoyens sous surveillance](https://www.youtube.com/watch?v=DBbuTpzID1g)
+    - [Friedrich Moser - La guerre du renseignement](https://www.youtube.com/watch?v=oe9O77sVJwQ)
+    - [Fabien Benoit - Hackers, ni dieux ni maîtres](https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/hackers-ni-dieux-ni-maitres)
+    - [Antoine Vitkine - La guerre invisible](https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/la-guerre-invisible)
+    - [Flore Vasseur - Meeting Snowden](https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/meeting-snowden)
+    - [ARTE - Les hackers russes : nouveaux mercenaires d'une cyberguerre](https://www.youtube.com/watch?v=WJGKuspi0-Q)
+    - David Bernet - Democracy
+    - Laura Poitras - Citizen Four
 
 ### 4. Les GAFAMS remplaceront-ils un jour les Etats ?
 
   - Economie des platformes
   - Effets de réseau
   - Prospective
+  - **Ressources supplémentaires:**
+    - [Laura Létourneau, Clément Bertholet - Ubérisons l'Etat avant que d'autres ne s'en chargent](http://catalogue.sciencespo.fr/ark:/46513/sc0001297667)
+    - [Internet, aliénation ou émancipation ?](https://www.youtube.com/watch?v=33b4CIvStPE)
+    - [David Carr-Brown - L'irrésistible ascension d'Amazon](https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/l-irresistible-ascension-d-amazon)
+    - [Sylvain Bergère, Stéphane Osmont - Faut-il avoir peur de Google ?](https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/faut-il-avoir-peur-de-google)
+    - Karim Amer, Jehane Noujaim - The Great Hack
 
 ### 5. Quel est le QI de l'intelligence artificielle ?
 
@@ -91,16 +124,10 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
 Vous trouverez ci-dessous une liste de ressources que j'ai trouvées pertinentes si vous souhaitez approfondir certains sujets.
 Les ressources mises en avant par Dominique Cardon dans son MOOC sont aussi une mine d'or pour comprendre les sujets numériques.
 
-  - https://www.franceinter.fr/emissions/un-jour-dans-le-monde/un-jour-dans-le-monde-21-avril-2016
-  - https://www.youtube.com/watch?v=XE_FPEFpHt4
-  - https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7
-  - https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-
-  - https://www.youtube.com/playlist?list=PLzdnOPI1iJNfV5ljCxR8BZWJRT_m_6CpB
-  - https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/meeting-snowden
-  - https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/la-guerre-invisible
-  - https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/hackers-ni-dieux-ni-maitres
-  - https://www.youtube.com/watch?v=33b4CIvStPE
-  - Democracy
-  - https://www.youtube.com/watch?v=djbwzEIv7gE
-  - https://www.youtube.com/watch?v=DBbuTpzID1g
-  - https://www.youtube.com/watch?v=oe9O77sVJwQ
+  - Cours en ligne:
+    - LE meilleur cours pour apprendre l'informatique, CS50 est disponible sur [YT](https://youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) et via un [MOOC](https://edx.org/course/cs50s-introduction-to-computer-science) avec des exercices pratiques utilisant un super [IDE](https://ide.cs50.io/).
+    - Pour s'initier à la programmation web, [codecademy.com](https://codecademy.com/) permet d'apprendre par la pratique, en obtenant très vite des résultats concrets (site internet, applications web...)
+    - Pour la manipulation de données, les quelques cours gratuits d'[udacity.com](https://www.udacity.com/courses/all) sont géniaux (cocher "free courses"). Je recommande (du + simple au + complexe):
+      - [Intro to data analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+      - [Intro to data science](https://www.udacity.com/course/intro-to-data-science--ud359)
+      - [Intro to machine learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
