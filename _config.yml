@@ -2,5 +2,6 @@ theme: jekyll-theme-cayman
 title: "Culture et enjeux du numérique"
 description: "Ressources et syllabus"
 google_analytics: UA-146440659-1
+theme_color: "#e6142d"
 plugins:
   - jemoji
