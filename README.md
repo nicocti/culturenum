@@ -9,7 +9,7 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
   - [3. Peut-on rester anonyme en ligne ?](#3-peut-on-rester-anonyme-en-ligne-)
   - [4. Les GAFAMS remplaceront-ils un jour les Etats ?](#4-les-gafams-remplaceront-ils-un-jour-les-etats-)
   - [5. Quel est le QI de l'intelligence artificielle ?](#5-quel-est-le-qi-de-lintelligence-artificielle-)
-  - [6. Atelier débuggage des explorations](#6-tbd-atelier-débuggage-des-explorations)
+  - [6. TBD](#6-tbd)
   - [7. Conclusion et rendu des explorations](#7-conclusion-et-rendu-des-explorations)
   - [Mode de validation](#mode-de-validation)
   - [Ressources](#ressources)
@@ -46,9 +46,9 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
   - Intelligence artificielle
   - Statistiques
 
-### 6. TBD: Atelier débuggage des explorations
+### 6. TBD
 
-  - A déterminer en fonction des formats des explorations.
+  - A déterminer en fonction des formats des explorations et de vos attentes.
 
 ### 7. Conclusion et rendu des explorations
 
@@ -99,3 +99,8 @@ Les ressources mises en avant par Dominique Cardon dans son MOOC sont aussi une 
   - https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/meeting-snowden
   - https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/la-guerre-invisible
   - https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/hackers-ni-dieux-ni-maitres
+  - https://www.youtube.com/watch?v=33b4CIvStPE
+  - Democracy
+  - https://www.youtube.com/watch?v=djbwzEIv7gE
+  - https://www.youtube.com/watch?v=DBbuTpzID1g
+  - https://www.youtube.com/watch?v=oe9O77sVJwQ
