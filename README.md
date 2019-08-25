@@ -62,7 +62,7 @@ Ce cours de culture numérique a été conçu pour aider les étudiant.e.s à d�
   - Il vous sera demandé d’être activement engagé pendant le cours et d’intervenir régulièrement pour enrichir les discussions collectives.
   - Toutefois, votre note de participation ne reposera pas uniquement sur votre prise de parole en présentiel.
   - La qualité de votre écoute et de votre attention sera aussi prise en compte.
-  - Et vous pourrez également participer “de façon numérique” en envoyant des articles, des réflexions, etc. aux autres étudiants de la classe dans les groupes de discussion du cours (le mieux serait d'[ouvrir une issue]({{issues_url}}) sur le repository qui héberge cette page web ainsi que les slides du cours).
+  - Et vous pourrez également participer “de façon numérique” en envoyant des articles, des réflexions, etc. aux autres étudiants de la classe dans les groupes de discussion du cours (le mieux serait d'[ouvrir une issue]({{site.github.issues_url}}) sur le repository qui héberge cette page web ainsi que les slides du cours).
 
 #### 2. Note de synthèse (20%) - Deadline 18/09 (groupe 1) ; 24/09 (groupe 2):
 
