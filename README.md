@@ -1,8 +1,15 @@
-## Culture et enjeux du numérique
+## Acteurs de la révolution numérique
 
-Je vous recommande à toutes et à tous de regarder les vidéos du Mooc de Dominique Cardon, très complètes,
-accessibles et bien mises en forme et qui ne sont - à ma connaissance - pas disponible ailleurs.
+Je vous recommande à toutes et à tous de regarder les [vidéos](https://moodle.sciences-po.fr/course/view.php?id=3361)
+du Mooc de Dominique Cardon, très complètes, accessibles et bien mises en forme et
+qui ne sont - à ma connaissance - pas disponible ailleurs. Elles vont permettront de
+comprendre comment le numérique révolutionne la politique, l'économie et toute la société.
 
+Pour ma part, j'essaierai de démystifier ces technologies. Celles-ci reposent sur des
+principes et intuitions souvent très simples, mais indispensables pour comprendre ce
+qui est entrain de se jouer et quelles sont les marges de manoeuvre pour le futur.
+
+Cette page sera mise à jour au fur et à mesure.
 
 ### Sommaire
 
@@ -29,6 +36,8 @@ accessibles et bien mises en forme et qui ne sont - à ma connaissance - pas dis
     - [Le dessous des cartes - Géopolitique des câbles sous-marins](https://youtube.com/watch?v=Cb7ibgRivwU)
     - [Le dessous des cartes - L'Internet est-il géopolitique ?](https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/le-dessous-des-cartes-l-internet-est-il-geopolitique-1-2)
     - [Le Monde - Comment la 5G est devenue un enjeu géopolitique](https://youtube.com/watch?v=HxBv6zqzCHc)
+    - [Dominique Cardon - L'ARPA et le réseau décentralisé](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115456&pageid=2911)
+    - [Dominique Cardon - Tim Berners-Lee et l’invention du lien hypertexte](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115337)
 
 ### 2. Qu'est ce qu'un "bug" ?
 
@@ -41,7 +50,11 @@ accessibles et bien mises en forme et qui ne sont - à ma connaissance - pas dis
   - **Ressources supplémentaires:**
     - [Code.org - How computers work ?](https://youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
     - [Code.org - Computer Science Principles](https://youtube.com/playlist?list=PLzdnOPI1iJNfV5ljCxR8BZWJRT_m_6CpB)
-    - [Harvard CS50 - Understanding technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
+    - [Harvard CS50 - Understanding technology](https://youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
+    - [Computerphile - Alan Turing and Enigma](https://youtube.com/playlist?list=PLzH6n4zXuckodsatCTEuxaygCHizMS0_I)
+    - [Dominique Cardon - La naissance de l'informatique](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115456&pageid=2910)
+    - [Dominique Cardon - Coopération et Hackers](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115456&pageid=2912)
+    - [Dominique Cardon - Logiciels libres et communs](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115337&pageid=2822)
 
 ### 3. Peut-on rester anonyme en ligne ?
 
@@ -49,15 +62,17 @@ accessibles et bien mises en forme et qui ne sont - à ma connaissance - pas dis
   - Cybersécurité
   - Dark Web
   - Hackers
+  - PsyOps
   - RGPD
   - **Ressources supplémentaires:**
-    - [Marc Meillassoux, Mihaela Gladovic - Nothing to hide](https://www.youtube.com/watch?v=djbwzEIv7gE)
-    - [Alexandre Valenti - Un oeil sur vous, citoyens sous surveillance](https://www.youtube.com/watch?v=DBbuTpzID1g)
-    - [Friedrich Moser - La guerre du renseignement](https://www.youtube.com/watch?v=oe9O77sVJwQ)
+    - [Dominique Cardon - Fake news panic](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115387&pageid=2886)
+    - [Marc Meillassoux, Mihaela Gladovic - Nothing to hide](https://youtube.com/watch?v=djbwzEIv7gE)
+    - [Alexandre Valenti - Un oeil sur vous, citoyens sous surveillance](https://youtube.com/watch?v=DBbuTpzID1g)
+    - [Friedrich Moser - La guerre du renseignement](https://youtube.com/watch?v=oe9O77sVJwQ)
     - [Fabien Benoit - Hackers, ni dieux ni maîtres](https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/hackers-ni-dieux-ni-maitres)
     - [Antoine Vitkine - La guerre invisible](https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/la-guerre-invisible)
     - [Flore Vasseur - Meeting Snowden](https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/meeting-snowden)
-    - [ARTE - Les hackers russes : nouveaux mercenaires d'une cyberguerre](https://www.youtube.com/watch?v=WJGKuspi0-Q)
+    - [ARTE - Les hackers russes : nouveaux mercenaires d'une cyberguerre](https://youtube.com/watch?v=WJGKuspi0-Q)
     - David Bernet - Democracy
     - Laura Poitras - Citizen Four
 
@@ -67,8 +82,11 @@ accessibles et bien mises en forme et qui ne sont - à ma connaissance - pas dis
   - Effets de réseau
   - Prospective
   - **Ressources supplémentaires:**
+    - [Dominique Cardon - Le web, entre le marché et les communs](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115337&pageid=2824)
+    - [Dominique Cardon - Enjeux de régulation](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115386&pageid=2880)
     - [Laura Létourneau, Clément Bertholet - Ubérisons l'Etat avant que d'autres ne s'en chargent](http://catalogue.sciencespo.fr/ark:/46513/sc0001297667)
-    - [Internet, aliénation ou émancipation ?](https://www.youtube.com/watch?v=33b4CIvStPE)
+    - [Finance Watch - Libra: Pile je gagne – face tu perds](https://finance-watch.org/wp-content/uploads/2019/07/Libra-Paper_Finance-Watch_FR.pdf)
+    - [Internet, aliénation ou émancipation ?](https://youtube.com/watch?v=33b4CIvStPE)
     - [David Carr-Brown - L'irrésistible ascension d'Amazon](https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/l-irresistible-ascension-d-amazon)
     - [Sylvain Bergère, Stéphane Osmont - Faut-il avoir peur de Google ?](https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/faut-il-avoir-peur-de-google)
     - Karim Amer, Jehane Noujaim - The Great Hack
@@ -127,7 +145,14 @@ Les ressources mises en avant par Dominique Cardon dans son MOOC sont aussi une 
   - Cours en ligne:
     - LE meilleur cours pour apprendre l'informatique, CS50 est disponible sur [YT](https://youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) et via un [MOOC](https://edx.org/course/cs50s-introduction-to-computer-science) avec des exercices pratiques utilisant un super [IDE](https://ide.cs50.io/).
     - Pour s'initier à la programmation web, [codecademy.com](https://codecademy.com/) permet d'apprendre par la pratique, en obtenant très vite des résultats concrets (site internet, applications web...)
-    - Pour la manipulation de données, les quelques cours gratuits d'[udacity.com](https://www.udacity.com/courses/all) sont géniaux (cocher "free courses"). Je recommande (du + simple au + complexe):
-      - [Intro to data analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
-      - [Intro to data science](https://www.udacity.com/course/intro-to-data-science--ud359)
-      - [Intro to machine learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+    - Pour la manipulation de données, les quelques cours gratuits d'[udacity.com](https://udacity.com/courses/all) sont géniaux (cocher "free courses"). Je recommande (du + simple au + complexe):
+      - [Intro to data analysis](https://udacity.com/course/intro-to-data-analysis--ud170)
+      - [Intro to data science](https://udacity.com/course/intro-to-data-science--ud359)
+      - [Intro to machine learning](https://udacity.com/course/intro-to-machine-learning--ud120)
+
+  - Curation:
+    - [REDEF](https://redef.com/channel/tech/feed)
+
+  - Romans:
+    - [Aurélien Bellanger - La théorie de l'information](http://catalogue.sciencespo.fr/ark:/46513/sc0001233926)
+    - [Alain Damasio - La zone du dehors](https://www.librairie-sciencespo.fr/livre/9782070464241-la-zone-du-dehors-alain-damasio/)
