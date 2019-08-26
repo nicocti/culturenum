@@ -31,7 +31,6 @@ Cette page sera mise à jour au fur et à mesure.
     - Le web: Le protocole HTTP(S)
   - Comment la technique influe sur la politique ?
   - **Ressources supplémentaires:**
-    - [Andrew Blum - What is the internet ?](https://youtube.com/watch?v=XE_FPEFpHt4)
     - [Code.org - How the internet works ?](https://youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
     - [Le dessous des cartes - Géopolitique des câbles sous-marins](https://youtube.com/watch?v=Cb7ibgRivwU)
     - [Le dessous des cartes - L'Internet est-il géopolitique ?](https://vod-mediatheque-numerique-com.acces-distant.sciencespo.fr/films/le-dessous-des-cartes-l-internet-est-il-geopolitique-1-2)
@@ -159,4 +158,4 @@ Les ressources mises en avant par Dominique Cardon dans son MOOC sont aussi une 
     - [Alain Damasio - La zone du dehors](https://librairie-sciencespo.fr/livre/9782070464241-la-zone-du-dehors-alain-damasio/)
 
   - Conférences:
-    - [The Family - Les nouveaux barbares](https://youtube.com/playlist?list=PL_e3KIBwbAbWjYcbEvovqo293d-yIGbPB) (sur l'impact du numérique sur les politiques publiques)
+    - [The Family - Les barbares attaquent !](https://youtube.com/playlist?list=PL_e3KIBwbAbWjYcbEvovqo293d-yIGbPB) (sur l'impact du numérique sur les politiques publiques)
