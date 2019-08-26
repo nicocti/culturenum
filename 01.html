@@ -38,6 +38,9 @@
                     - Ex - SciencesPo MPP 2018
                     - Ex - Workshops manager @ We_Start
                 </section>
+                <section data-markdown>
+                    ## Et vous ?
+                </section>
                 <section data-background-iframe="https://nicocti.github.io/culturenum/"></section>
                 <section>
                     <p class="stretch"><img
@@ -49,9 +52,11 @@
                 </section>
                 <section data-markdown> ![http](assets/images/http-dns-2.png) </section>
                 <section>
-                        <p class="stretch"><img
-                                data-src="assets/images/C0A7puwXAAAbMqn.jpeg"></p>
-                    </section>
+                    <p class="stretch"><img data-src="assets/images/C0A7puwXAAAbMqn.jpeg"></p>
+                </section>
+                <section>
+                    <p class="stretch"><img data-src="assets/images/dns.svg"></p>
+                </section>
                 <section>
                     <p class="stretch"><img data-src="assets/images/packet.svg"></p>
                 </section>
@@ -63,16 +68,15 @@
                         <h2>L'internet des câbles sous-marins</h2>
                     </div>
                 </section>
-                <section data-background-iframe="https://www.youtube.com/embed/zDAYZU4A3w0?controls=0&amp;start=129"></section>
+                <section
+                    data-background-iframe="https://www.youtube.com/embed/zDAYZU4A3w0?controls=0&amp;start=129">
+                </section>
                 <section data-markdown> ![cats](assets/images/traffic_shares.png) </section>
                 <section>
                     <p class="stretch"><img data-src="assets/images/nat.svg"></p>
                 </section>
                 <section>
                     <p class="stretch"><img data-src="assets/images/tcp-1.svg"></p>
-                </section>
-                <section>
-                    <p class="stretch"><img data-src="assets/images/dns.svg"></p>
                 </section>
                 <section>
                     <p class="stretch"><img data-src="assets/images/mac-address.svg"></p>
@@ -83,12 +87,23 @@
         <script src="js/reveal.js"></script>
 
         <script>
+            // More info https://github.com/hakimel/reveal.js#configuration
             Reveal.initialize({
+                controls: true,
+                progress: true,
+                center: true,
+                hash: true,
+
+                transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+                // More info https://github.com/hakimel/reveal.js#dependencies
                 dependencies: [
-                    { src: 'plugin/markdown/marked.js' },
-                    { src: 'plugin/markdown/markdown.js' },
-                    { src: 'plugin/notes/notes.js', async: true },
-                    { src: 'plugin/highlight/highlight.js', async: true }
+                    { src: 'plugin/markdown/marked.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+                    { src: 'plugin/markdown/markdown.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+                    { src: 'plugin/highlight/highlight.js', async: true },
+                    { src: 'plugin/search/search.js', async: true },
+                    { src: 'plugin/zoom-js/zoom.js', async: true },
+                    { src: 'plugin/notes/notes.js', async: true }
                 ]
             });
         </script>

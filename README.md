@@ -64,6 +64,7 @@ Cette page sera mise à jour au fur et à mesure.
   - Hackers
   - PsyOps
   - RGPD
+  - Revue des notes d'intention
   - **Ressources supplémentaires:**
     - [Dominique Cardon - Fake news panic](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115387&pageid=2886)
     - [Marc Meillassoux, Mihaela Gladovic - Nothing to hide](https://youtube.com/watch?v=djbwzEIv7gE)
@@ -115,7 +116,7 @@ Cette page sera mise à jour au fur et à mesure.
   - La qualité de votre écoute et de votre attention sera aussi prise en compte.
   - Et vous pourrez également participer “de façon numérique” en envoyant des articles, des réflexions, etc. aux autres étudiants de la classe dans les groupes de discussion du cours (le mieux serait d'[ouvrir une issue]({{site.github.issues_url}}) sur le repository qui héberge cette page web ainsi que les slides du cours).
 
-#### 2. Note de synthèse (20%) - Deadline 18/09 (groupe 1) ; 24/09 (groupe 2):
+#### 2. Note de synthèse (20%) - Deadline 21/09 (groupe 1) ; 28/09 (groupe 2):
 
   - Pour la 3ème séance, chaque groupe devra rédiger une note de synthèse de 4 pages sur son exploration numérique.
   - Cette note devra comprendre :
@@ -127,7 +128,7 @@ Cette page sera mise à jour au fur et à mesure.
     - les difficultés que vous pensez rencontrer pour mener à bien votre enquête
     - une bibliographie indicative
 
-#### 3. Exploration numérique (70%) - Deadline TBD:
+#### 3. Exploration numérique (70%) - Deadline 08/12 23:59:
 
 - Par groupe de 3 ou 4, vous devrez conduire une enquête sur une pratique, un service, une entreprise, etc. du numérique.
 - La restitution de votre exploration devra être faite sous un format numérique (site web, vidéo, podcast, mais aussi éventuellement compte Facebook, Instagram, etc.).
