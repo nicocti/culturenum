@@ -1,3 +1,7 @@
+---
+title: Culture et Enjeux du Numérique
+---
+
 ## Acteurs de la révolution numérique
 
 Je vous recommande à toutes et à tous de regarder les [vidéos](https://moodle.sciences-po.fr/course/view.php?id=3361)
