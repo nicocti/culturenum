@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 600" enable-background="new 0 0 800 600" xml:space="preserve">
+<g id="Layer_1" display="none">
+	<rect display="inline" fill="#414042" width="801" height="600"/>
+</g>
+<g id="Layer_7">
+	<g id="machine">
+		<g>
+			<rect x="416.8" y="92.4" fill="#58595B" width="340.8" height="409.1"/>
+			<g>
+				<polyline fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" points="757.7,495.5 757.7,501.5 751.7,501.5 
+									"/>
+				
+					<line fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="12.1794,12.1794" x1="739.5" y1="501.5" x2="428.9" y2="501.5"/>
+				<polyline fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" points="422.8,501.5 416.8,501.5 416.8,495.5 
+									"/>
+				
+					<line fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="12.033,12.033" x1="416.8" y1="483.5" x2="416.8" y2="104.5"/>
+				<polyline fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" points="416.8,98.4 416.8,92.4 422.8,92.4 				
+					"/>
+				
+					<line fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="12.1794,12.1794" x1="435" y1="92.4" x2="745.6" y2="92.4"/>
+				<polyline fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" points="751.7,92.4 757.7,92.4 757.7,98.4 				
+					"/>
+				
+					<line fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="12.033,12.033" x1="757.7" y1="110.5" x2="757.7" y2="489.5"/>
+			</g>
+		</g>
+		<g id="Layer_3_copy">
+			<rect x="522.6" y="337.5" fill="#3787C8" width="81" height="81"/>
+			<rect x="522.6" y="175.5" fill="#4CBEA1" width="81" height="81"/>
+		</g>
+		<text transform="matrix(1 0 0 1 620.0916 224.5494)" fill="#F1F2F2" font-family="'Roboto-Bold'" font-size="22">OUTLOOK</text>
+		<text transform="matrix(1 0 0 1 620.0916 372.1128)"><tspan x="0" y="0" fill="#F1F2F2" font-family="'Roboto-Bold'" font-size="22">GOOGLE</tspan><tspan x="0" y="26.4" fill="#F1F2F2" font-family="'Roboto-Bold'" font-size="22">CHROME</tspan></text>
+		<circle fill="#BCBEC0" cx="265.8" cy="297.4" r="25"/>
+		<line fill="none" stroke="#BCBEC0" stroke-width="8" stroke-miterlimit="10" x1="265.8" y1="297.4" x2="47.8" y2="297.4"/>
+	</g>
+	<g id="message" display="none">
+		<g display="inline">
+			<g>
+				<line fill="none" stroke="#E26F4F" stroke-width="8" stroke-miterlimit="10" x1="311.2" y1="297.4" x2="362.9" y2="297.4"/>
+				<g>
+					<polygon fill="#E26F4F" points="358.2,313.4 385.8,297.4 358.2,281.5 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="port">
+		<g>
+			<g>
+				<line fill="none" stroke="#E26F4F" stroke-width="8" stroke-miterlimit="10" x1="311.2" y1="297.4" x2="415.7" y2="297.1"/>
+				<g>
+					<polygon fill="#E26F4F" points="411.1,313 438.6,297 411,281.1 					"/>
+				</g>
+			</g>
+		</g>
+		<circle fill="#E26F4F" cx="466.8" cy="297.4" r="18.4"/>
+	</g>
+	<g id="port_unicity" display="none">
+		<g display="inline">
+			<g>
+				<polyline fill="none" stroke="#4CBEA1" stroke-width="8" stroke-miterlimit="10" points="311.2,297.4 396.4,297.4 396.4,213.3 
+					415.7,213.3 				"/>
+				<g>
+					<polygon fill="#4CBEA1" points="411,229.2 438.6,213.3 411,197.3 					"/>
+				</g>
+			</g>
+		</g>
+		<circle display="inline" fill="#4CBEA1" cx="466.8" cy="213.3" r="18.4"/>
+		<circle display="inline" fill="#3787C8" cx="466.8" cy="378" r="18.4"/>
+		<text transform="matrix(1 0 0 1 435.8354 183.704)" display="inline" fill="#F1F2F2" font-family="'Roboto-Bold'" font-size="27">2892</text>
+		
+			<text transform="matrix(1 0 0 1 435.8354 351.0373)" display="inline" fill="#F1F2F2" font-family="'Roboto-Bold'" font-size="27">1883</text>
+	</g>
+</g>
+<g id="Layer_8" display="none">
+	<g id="DoS">
+		
+			<line display="inline" fill="none" stroke="#E26F4F" stroke-width="8" stroke-miterlimit="10" x1="462.8" y1="235.9" x2="339.3" y2="358.3"/>
+		<circle display="inline" fill="#E26F4F" cx="339.3" cy="358.3" r="17.1"/>
+	</g>
+	<g id="machine_copy" display="inline">
+		<g>
+			<rect x="523.1" y="95.7" fill="#58595B" width="233" height="279.7"/>
+			<g>
+				<polyline fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" points="756.1,369.4 756.1,375.4 750.1,375.4 
+									"/>
+				
+					<line fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="11.6326,11.6326" x1="738.5" y1="375.4" x2="534.9" y2="375.4"/>
+				<polyline fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" points="529.1,375.4 523.1,375.4 523.1,369.4 
+									"/>
+				
+					<line fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="11.6381,11.6381" x1="523.1" y1="357.7" x2="523.1" y2="107.5"/>
+				<polyline fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" points="523.1,101.7 523.1,95.7 529.1,95.7 
+									"/>
+				
+					<line fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="11.6326,11.6326" x1="540.7" y1="95.7" x2="744.3" y2="95.7"/>
+				<polyline fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" points="750.1,95.7 756.1,95.7 756.1,101.7 
+									"/>
+				
+					<line fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="11.6381,11.6381" x1="756.1" y1="113.3" x2="756.1" y2="363.6"/>
+			</g>
+		</g>
+		<g id="Layer_3_copy_2">
+			<rect x="639.6" y="208.2" fill="#4CBEA1" width="55.4" height="55.4"/>
+		</g>
+		<circle fill="#BCBEC0" cx="462.8" cy="235.9" r="17.1"/>
+		<circle fill="#4CBEA1" cx="590.8" cy="235.9" r="17.1"/>
+		<circle fill="#BCBEC0" cx="215.8" cy="235.9" r="17.1"/>
+		<line fill="none" stroke="#BCBEC0" stroke-width="8" stroke-miterlimit="10" x1="462.8" y1="235.9" x2="215.8" y2="235.9"/>
+		<g>
+			<path fill="none" d="M492,235.9"/>
+		</g>
+	</g>
+	<g id="machine_trojan">
+		<g display="inline">
+			<rect x="523.1" y="95.7" fill="#58595B" width="233" height="279.7"/>
+			<g>
+				<polyline fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" points="756.1,369.4 756.1,375.4 750.1,375.4 
+									"/>
+				
+					<line fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="11.6326,11.6326" x1="738.5" y1="375.4" x2="534.9" y2="375.4"/>
+				<polyline fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" points="529.1,375.4 523.1,375.4 523.1,369.4 
+									"/>
+				
+					<line fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="11.6381,11.6381" x1="523.1" y1="357.7" x2="523.1" y2="107.5"/>
+				<polyline fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" points="523.1,101.7 523.1,95.7 529.1,95.7 
+									"/>
+				
+					<line fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="11.6326,11.6326" x1="540.7" y1="95.7" x2="744.3" y2="95.7"/>
+				<polyline fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" points="750.1,95.7 756.1,95.7 756.1,101.7 
+									"/>
+				
+					<line fill="none" stroke="#808285" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="11.6381,11.6381" x1="756.1" y1="113.3" x2="756.1" y2="363.6"/>
+			</g>
+		</g>
+		<g id="Layer_3_copy_4" display="inline">
+			<rect x="639.6" y="147.2" fill="#4CBEA1" width="55.4" height="55.4"/>
+			<rect x="639.6" y="269.4" fill="#E26F4F" width="55.4" height="55.4"/>
+		</g>
+		<circle display="inline" fill="#BCBEC0" cx="462.8" cy="235.9" r="17.1"/>
+		<circle display="inline" fill="#4CBEA1" cx="590.8" cy="174.9" r="17.1"/>
+		<circle display="inline" fill="#E26F4F" cx="590.8" cy="297.1" r="17.1"/>
+		<circle display="inline" fill="#BCBEC0" cx="215.8" cy="235.9" r="17.1"/>
+		
+			<line display="inline" fill="none" stroke="#BCBEC0" stroke-width="8" stroke-miterlimit="10" x1="462.8" y1="235.9" x2="215.8" y2="235.9"/>
+		<g display="inline">
+			<g>
+				<polyline fill="none" stroke="#4CBEA1" stroke-width="7" stroke-miterlimit="10" points="488.7,223.2 524.7,223.2 524.7,174.9 
+					546.2,174.9 				"/>
+				<g>
+					<polygon fill="#4CBEA1" points="542.2,188.8 566.3,174.9 542.2,160.9 					"/>
+				</g>
+			</g>
+		</g>
+		<g display="inline">
+			<g>
+				<polyline fill="none" stroke="#E26F4F" stroke-width="7" stroke-miterlimit="10" points="566.3,297.1 524.7,297.1 524.7,249.4 
+					508.8,249.4 				"/>
+				<g>
+					<polygon fill="#E26F4F" points="512.8,235.4 488.7,249.4 512.8,263.4 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="DoS_copy">
+		
+			<line display="inline" fill="none" stroke="#E26F4F" stroke-width="8" stroke-miterlimit="10" x1="462.8" y1="235.9" x2="339.3" y2="358.3"/>
+		<circle display="inline" fill="#E26F4F" cx="339.3" cy="358.3" r="17.1"/>
+	</g>
+	<g id="machine_dos">
+		
+			<rect x="523.1" y="95.7" display="inline" fill="#58595B" stroke="#808285" stroke-width="8" stroke-miterlimit="10" width="233" height="279.7"/>
+		<g id="Layer_3_copy_3" display="inline">
+			<rect x="639.6" y="208.2" fill="#4CBEA1" width="55.4" height="55.4"/>
+		</g>
+		<circle display="inline" fill="#BCBEC0" cx="462.8" cy="235.9" r="17.1"/>
+		<circle display="inline" fill="#4CBEA1" cx="590.8" cy="235.9" r="17.1"/>
+		<circle display="inline" fill="#BCBEC0" cx="215.8" cy="235.9" r="17.1"/>
+		
+			<line display="inline" fill="none" stroke="#BCBEC0" stroke-width="8" stroke-miterlimit="10" x1="462.8" y1="235.9" x2="215.8" y2="235.9"/>
+	</g>
+	<g id="laptop" display="inline">
+		<rect x="46.6" y="199.7" fill="#BCBEC0" width="100.9" height="65"/>
+		<polygon fill="#939598" points="147.5,264.7 46.6,264.7 34.9,273.8 34.9,279.2 160.4,279.2 160.4,273.8 		"/>
+		<rect x="54.4" y="206.7" fill="#939598" width="85.3" height="51.7"/>
+	</g>
+	<g id="laptop_copy">
+		<rect x="259.2" y="408.8" display="inline" fill="#EA9380" width="100.9" height="65"/>
+		<polygon display="inline" fill="#E26F4F" points="360.2,473.8 259.2,473.8 247.5,482.9 247.5,488.3 373.1,488.3 373.1,482.9 		"/>
+		<rect x="267" y="415.8" display="inline" fill="#E26F4F" width="85.3" height="51.7"/>
+	</g>
+	<g id="man_in_the_middle" display="inline">
+		<g>
+			<g>
+				<line fill="none" stroke="#4CBEA1" stroke-width="7" stroke-miterlimit="10" x1="492" y1="235.9" x2="538.9" y2="235.9"/>
+				<g>
+					<polygon fill="#4CBEA1" points="534.8,249.8 559,235.9 534.8,221.9 					"/>
+				</g>
+			</g>
+		</g>
+		<circle fill="#E26F4F" cx="339.3" cy="235.9" r="17.1"/>
+	</g>
+	<g id="man_in_the_middle_copy" display="inline">
+		<g>
+			<g>
+				<line fill="none" stroke="#E26F4F" stroke-width="7" stroke-miterlimit="10" x1="492" y1="235.9" x2="538.9" y2="235.9"/>
+				<g>
+					<polygon fill="#E26F4F" points="534.8,249.8 559,235.9 534.8,221.9 					"/>
+				</g>
+			</g>
+		</g>
+		<circle fill="#E26F4F" cx="339.3" cy="235.9" r="17.1"/>
+		<circle fill="#E26F4F" cx="462.8" cy="235.9" r="17.1"/>
+		<line fill="none" stroke="#E26F4F" stroke-width="8" stroke-miterlimit="10" x1="467.3" y1="235.9" x2="343.8" y2="235.9"/>
+	</g>
+</g>
+</svg>

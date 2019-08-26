@@ -155,4 +155,7 @@ Les ressources mises en avant par Dominique Cardon dans son MOOC sont aussi une 
 
   - Romans:
     - [Aurélien Bellanger - La théorie de l'information](http://catalogue.sciencespo.fr/ark:/46513/sc0001233926)
-    - [Alain Damasio - La zone du dehors](https://www.librairie-sciencespo.fr/livre/9782070464241-la-zone-du-dehors-alain-damasio/)
+    - [Alain Damasio - La zone du dehors](https://librairie-sciencespo.fr/livre/9782070464241-la-zone-du-dehors-alain-damasio/)
+
+  - Conférences:
+    - [The Family - Les nouveaux barbares](https://youtube.com/playlist?list=PL_e3KIBwbAbWjYcbEvovqo293d-yIGbPB) (sur l'impact du numérique sur les politiques publiques)
