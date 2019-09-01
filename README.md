@@ -37,6 +37,7 @@ Cette page sera mise à jour au fur et à mesure.
     - [Le Monde - Comment la 5G est devenue un enjeu géopolitique](https://youtube.com/watch?v=HxBv6zqzCHc)
     - [Dominique Cardon - L'ARPA et le réseau décentralisé](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115456&pageid=2911)
     - [Dominique Cardon - Tim Berners-Lee et l’invention du lien hypertexte](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115337)
+    - [Dominique Boullier - Paquets et Réseau Distribué](https://youtube.com/watch?v=ZPo8eIhnYvk)
 
 ### 2. Qu'est ce qu'un "bug" ?
 
@@ -159,3 +160,6 @@ Les ressources mises en avant par Dominique Cardon dans son MOOC sont aussi une 
 
   - Conférences:
     - [The Family - Les barbares attaquent !](https://youtube.com/playlist?list=PL_e3KIBwbAbWjYcbEvovqo293d-yIGbPB) (sur l'impact du numérique sur les politiques publiques)
+
+  - Autres:
+    - [Hakim Bey - TAZ, Temporary Autonomous Zone](http://www.lyber-eclat.net/lyber/taz.html)
