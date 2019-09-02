@@ -55,6 +55,7 @@ Cette page sera mise à jour au fur et à mesure.
     - [Dominique Cardon - La naissance de l'informatique](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115456&pageid=2910)
     - [Dominique Cardon - Coopération et Hackers](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115456&pageid=2912)
     - [Dominique Cardon - Logiciels libres et communs](https://moodle.sciences-po.fr/mod/lesson/view.php?id=115337&pageid=2822)
+    - [Philippe Calderon - John Von Neumann](https://youtube.com/watch?v=c9pL_3tTW2c)
 
 ### 3. Peut-on rester anonyme en ligne ?
 

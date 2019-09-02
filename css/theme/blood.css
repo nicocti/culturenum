@@ -43,6 +43,14 @@ body {
   font-weight: inherit;
 }
 
+html.background-opacity .slide-background.present {
+  opacity: 0.3;
+}
+
+.container {
+  top: 0px
+}
+
 /*********************************************
  * HEADERS
  *********************************************/
