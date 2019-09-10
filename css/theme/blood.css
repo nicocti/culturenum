@@ -189,6 +189,7 @@ html.background-opacity .slide-background.present {
   line-height: 1.2em;
   word-wrap: break-word;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+  background-color: #23241f
 }
 
 .reveal code {
@@ -358,4 +359,10 @@ html.background-opacity .slide-background.present {
 
 .reveal small code {
   vertical-align: baseline;
+}
+
+#background-canvas {
+  position: fixed;
+  height: 100%;
+  width: 100%;
 }
