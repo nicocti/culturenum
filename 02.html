@@ -241,7 +241,7 @@ Dec Hex      Bin  |  Dec Hex      Bin  |  Dec Hex      Bin  |  Dec Hex      Bin
                             let distanceY = Math.abs(particle.y - particle2.y);
                             if (distanceX < threshold && distanceY < threshold) {
                                 context.lineWidth = ((threshold) - (distanceX + distanceY)) / 100;
-                                let color = 200 - Math.floor(distanceX / 2 + distanceY / 2);
+                                let color = 100 - Math.floor(distanceX / 3 + distanceY / 3);
                                 context.strokeStyle = 'rgb(' + color + ',' + color + ',' + color + ')';
                                 line(particle, particle2);
                             }
@@ -274,7 +274,7 @@ Dec Hex      Bin  |  Dec Hex      Bin  |  Dec Hex      Bin  |  Dec Hex      Bin
                 }
                 particles.push(particle);
             }
-            context.fillStyle = 'white';
+            context.fillStyle = 'grey';
             animate();
 
         </script>
