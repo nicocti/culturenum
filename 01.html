@@ -24,70 +24,145 @@
     </head>
 
     <body>
+        <canvas id="background-canvas" width="100%" height="100%"></canvas>
         <div class="reveal">
             <div class="slides">
-                <section data-markdown>
+                <section data-markdown
+                    data-background-image="https://media.wired.com/photos/5ca6989ff1f7d24dae56aa30/master/pass/Cable-Tank-Loading-Ship-SubCom-MAIN.jpg">
                     ## Culture et enjeux du numérique
+                    #### Séance 1
                 </section>
                 <section data-markdown>
-                    ### Nicolas Conti
-
-                    - Data Engineer @ [Kayrros](https://kayrros.com)
-                    - Ex - SciencesPo [MPP](https://sciencespo.fr/public/fr/content/digital-new-technology-and-public-policy) 2018
-                    - Ex - Workshops manager @ [We_Start](https://we-start.fr/)
+                    ### Internet
                 </section>
                 <section data-markdown>
-                    ## Et vous ?
+                    ### TCP/IP
                 </section>
-                <section data-background-iframe="https://nicocti.github.io/culturenum/"></section>
-                <section>
-                    <p class="stretch"><img
-                            data-src="https://drawings.jvns.ca/drawings/networking.svg"></p>
+                <section data-background-iframe="https://www.youtube.com/embed/ZPo8eIhnYvk"
+                    data-background-interactive>
+                </section>
+                <section
+                    data-background-image="https://timedotcom.files.wordpress.com/2015/08/150819-telephone-operators-01.jpg">
+                </section>
+                <section
+                    data-background-image="https://superretro.com/wp-content/uploads/2016/12/dZgOapH-1280x960.jpg">
                 </section>
                 <section data-markdown>
-                    ### The internet in a nutshell
-                    ##### IP address + TCP packets = 💓
+                    ![baran](https://i0.wp.com/www.peacebiennale.info/blog/wp-content/uploads/2017/12/Fig-21.5-Baran_Diagrams-hi-res.jpg?resize=1024%2C680&ssl=1)
                 </section>
-                <section data-markdown> ![http](assets/images/http-dns-2.png) </section>
+                <section data-markdown>
+                    ### 255.255.255.255
+                </section>
                 <section>
                     <p class="stretch"><img data-src="assets/images/C0A7puwXAAAbMqn.jpeg"></p>
+                    <!-- IP Address -->
+                </section>
+                <section data-markdown>
+                    ### IP Publique / IP Privée
                 </section>
                 <section>
-                    <p class="stretch"><img data-src="assets/images/dns.svg"></p>
+                    <p class="stretch"><img data-src="assets/images/nat.svg"></p>
+                    <!-- NAT -->
                 </section>
                 <section>
-                    <p class="stretch"><img data-src="assets/images/packet.svg"></p>
+                    <pre>
+
+                            IP Datagram
+  0               1               2               3
+  0 1 2 3 4 5 6 7 0 1 2 3 4 5 6 7 0 1 2 3 4 5 6 7 0 1 2 3 4 5 6 7
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |Version|  IHL  |Type of Service|          Total Length         |
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |         Identification        |Flags|     Fragment Offset     |
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |  Time to Live |    Protocol   |        Header Checksum        |
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |                         Source Address                        |
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |                      Destination Address                      |
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                    </pre>
                 </section>
                 <section>
-                    <p class="stretch"><img data-src="assets/images/ECA-PX3XsAAdaOs2.jpeg"></p>
+                    <pre>
+
+                            TCP Datagram
+  0               1               2               3
+  0 1 2 3 4 5 6 7 0 1 2 3 4 5 6 7 0 1 2 3 4 5 6 7 0 1 2 3 4 5 6 7
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |          Source Port          |        Destination Port       |
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |                        Sequence Number                        |
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |                     Acknowledgment Number                     |
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ | Offset|  Res. |     Flags     |             Window            |
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ |            Checksum           |         Urgent Pointer        |
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+                    </pre>
                 </section>
-                <section>
-                    <p class="stretch"><img data-src="assets/images/ECA-PX3XsAAdaOs.jpeg"></p>
+                <section
+                    data-background-image="https://brianchristner.io/content/images/2016/09/Application_Upgrades.jpg">
                 </section>
                 <section data-markdown> ![cats](assets/images/cat.png) </section>
-                <section data-background-iframe="https://live.infrapedia.com/"
-                    data-background-interactive>
-                    <div
-                        style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
-                        <h2>L'internet des câbles sous-marins</h2>
-                    </div>
+                <section data-markdown>
+                    ![tubes](https://geekbeat.tv/wp-content/uploads/2014/04/InternetTube.png)
+                </section>
+                <section
+                    data-background-image="https://www.dailydot.com/wp-content/uploads/073/6d/1ba76768a15e63e7318154ed7f604552.jpg">
+                </section>
+                <section data-markdown> ![traffic_shares](assets/images/traffic_shares.png)
                 </section>
                 <section
                     data-background-iframe="https://www.youtube.com/embed/zDAYZU4A3w0?controls=0&amp;start=129">
                 </section>
-                <section data-markdown> ![cats](assets/images/traffic_shares.png) </section>
-                <section>
-                    <p class="stretch"><img data-src="assets/images/nat.svg"></p>
+                <section data-markdown>
+                    ### DNS
                 </section>
                 <section>
+                    <p class="stretch"><img data-src="assets/images/dns.svg"></p>
+                    <!-- DNS -->
+                </section>
+                <section data-markdown
+                    data-background-image="http://getwallpapers.com/wallpaper/full/a/6/1/1063568-cool-google-data-center-wallpaper-2880x1800-picture.jpg">
+                </section>
+                <section data-markdown>
+                    ![OSI_model](https://upload.wikimedia.org/wikipedia/commons/8/8d/OSI_Model_v1.svg)
+                </section>
+                <section data-markdown>
+                    ### HTTP
+                </section>
+                <section data-markdown>
+                    #### https://www.youtube.com/watch?v=dQw4w9WgXcQ
+                </section>
+                <section>
+                    <p class="stretch"><img data-src="assets/images/ECA-PX3XsAAdaOs.jpeg"></p>
+                    <!-- URL -->
+                </section>
+                <section data-markdown> ![http](assets/images/http-dns-2.png) </section>
+                <section>
+                    <p class="stretch"><img data-src="assets/images/ECA-PX3XsAAdaOs2.jpeg"></p>
+                    <!-- HTTP -->
+                </section>
+                <section>
+                    <p class="stretch"><img data-src="assets/images/packet.svg"></p>
+                    <!-- paquet -->
+                </section>
+
+                <section>
                     <p class="stretch"><img data-src="assets/images/tcp-1.svg"></p>
+                    <!-- TCP  -->
                 </section>
                 <section>
                     <p class="stretch"><img data-src="assets/images/mac-address.svg"></p>
+                    <!-- MAC -->
                 </section>
+
             </div>
         </div>
 
+        <script src="js/background.js"></script>
         <script src="js/reveal.js"></script>
 
         <script>
