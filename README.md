@@ -13,6 +13,7 @@ Cette page sera mise à jour au fur et à mesure.
 
 ### Sommaire
 
+  - [0. 01101000 01101001 00100001 ](#0) [(slides)](00)
   - [1. Comment fonctionne internet ?](#1-comment-fonctionne-internet-) [(slides)](01)
   - [2. Qu'est ce qu'un "bug" ?](#2-quest-ce-quun-bug-) [(slides)](02)
   - [3. Peut-on rester anonyme en ligne ?](#3-peut-on-rester-anonyme-en-ligne-) [(slides)](03)
