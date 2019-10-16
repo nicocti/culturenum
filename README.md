@@ -17,7 +17,7 @@ Cette page sera mise à jour au fur et à mesure.
   - [1. Comment fonctionne internet ?](#1-comment-fonctionne-internet-) [(slides)](01)
   - [2. Qu'est ce qu'un "bug" ?](#2-quest-ce-quun-bug-) [(slides)](02)
   - [3. Peut-on rester anonyme en ligne ?](#3-peut-on-rester-anonyme-en-ligne-) [(slides)](03)
-  - [4. Les GAFAMS remplaceront-ils un jour les Etats ?](#4-les-gafams-remplaceront-ils-un-jour-les-etats-)
+  - [4. Les GAFAMS remplaceront-ils un jour les Etats ?](#4-les-gafams-remplaceront-ils-un-jour-les-etats-) [(slides)](04)
   - [5. Quel est le QI de l'intelligence artificielle ?](#5-quel-est-le-qi-de-lintelligence-artificielle-)
   - [6. TBD](#6-tbd)
   - [7. Conclusion et rendu des explorations](#7-conclusion-et-rendu-des-explorations)
