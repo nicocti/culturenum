@@ -1,0 +1,139 @@
+<!doctype html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Séance 5</title>
+
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="css/theme/blood.css">
+
+        <!-- Theme used for syntax highlighting of code -->
+        <link rel="stylesheet" href="lib/css/monokai-sublime.css">
+
+        <!-- Printing and PDF exports -->
+        <script>
+            var link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+            document.getElementsByTagName('head')[0].appendChild(link);
+        </script>
+    </head>
+
+    <body>
+        <canvas id="background-canvas" width="100%" height="100%"></canvas>
+        <div class="reveal">
+            <div class="slides">
+                <section data-markdown
+                    data-background-image="assets/images/RMC2008_0011.jpg">
+                    ## Culture et enjeux du numérique
+                    #### Séance 5
+                </section>
+                <section data-markdown>
+                    [nicocti.github.io/culturenum](https://nicocti.github.io/culturenum)
+                </section>
+                <section data-markdown>
+                    ### Is it AI ?
+                </section>
+                <section data-markdown>
+                    ![AI](https://blogs.nvidia.com/wp-content/uploads/2016/07/Deep_Learning_Icons_R5_PNG.jpg.png)
+                </section>
+                <section data-markdown>
+                    ### Des algorithmes aux statistiques
+                </section>
+                <section
+                    data-background-image="https://cms.qz.com/wp-content/uploads/2015/09/deep-blue.jpeg">
+                </section>
+                <section
+                    data-background-image="http://cdn.mos.cms.futurecdn.net/823400b5bf8b97bb87c9d01fcb6207c2.jpg">
+                </section>
+                <section data-markdown>
+                    ![AI/ML/DL](https://simplecore.intel.com/newsroom/wp-content/uploads/sites/11/2018/05/artificial-intelligence-terms.jpg)
+                </section>
+                <section data-background-iframe="https://teachablemachine.withgoogle.com"
+                    data-background-interactive>
+                </section>
+                <section data-markdown>
+                    ### Regressions
+                </section>
+                <section>
+                    <p class="stretch"><img data-src="https://i.stack.imgur.com/SbqXz.png">
+                    </p>
+                </section>
+                <section
+                    data-background-iframe="https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464">
+                </section>
+                <section
+                    data-background-iframe="https://playground.tensorflow.org/#activation=linear&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=1&seed=0.34827&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false">
+                </section>
+                <section
+                    data-background-iframe="http://playground.tensorflow.org/#activation=tanh&regularization=L2&batchSize=10&dataset=spiral&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.003&noise=5&networkShape=8,6,2&seed=0.60753&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false">
+                </section>
+                <section data-markdown>
+                    ### IA faible / IA forte
+                </section>
+                <section
+                    data-background-image="https://scienews.com/images/2018/04/7122ada0ecadf53ffe900d5c39256259.jpg">
+                </section>
+                <section
+                    data-background-iframe="https://embed.ted.com/talks/lang/fr/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end">
+                </section>
+                <section data-markdown>
+                    ### Natural Language Processing
+                </section>
+                <section data-markdown>
+                    ![word
+                    embeddings](https://lh6.googleusercontent.com/xvk-_fxvJp2atVExddjkGBLgUNKJKjbJexMTn7vQRdDNJBZo-eDM9dNN4ZtYzcphYdRRSGhm7NFp-kOD4UvxdzJTeSLye6a3_J_U4p5Rkyis82DwQvg40qtG-IwwSZwFM0RdDPYb)
+                </section>
+                <section
+                    data-background-iframe="https://usbeketrica.com/article/inquiets-des-chercheurs-bloquent-la-sortie-de-leur-ia">
+                </section>
+                <section
+                    data-background-iframe="https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-artificial-intelligence-ai-chatbot-new-language-research-openai-google-a7869706.html">
+                </section>
+                <section data-markdown>
+                    ### Generative Adversarial Networks
+                </section>
+                <section data-background-iframe="https://www.youtube.com/embed/gLoI9hAX9dw">
+                </section>
+                <section data-markdown>
+                    ### Big Data
+                </section>
+                <section>
+                    <p class="stretch"><img
+                            data-src="https://filiph.net/slides/idf-cloud/src/horizontal-vertical-scalability.jpeg">
+                    </p>
+                </section>
+            </div>
+        </div>
+
+        <script src="js/background.js"></script>
+        <script src="js/reveal.js"></script>
+
+        <script>
+            // More info https://github.com/hakimel/reveal.js#configuration
+            Reveal.initialize({
+                controls: true,
+                progress: true,
+                center: true,
+                hash: true,
+
+                transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+                // More info https://github.com/hakimel/reveal.js#dependencies
+                dependencies: [
+                    { src: 'plugin/markdown/marked.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+                    { src: 'plugin/markdown/markdown.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+                    { src: 'plugin/highlight/highlight.js', async: true },
+                    { src: 'plugin/search/search.js', async: true },
+                    { src: 'plugin/zoom-js/zoom.js', async: true },
+                    { src: 'plugin/notes/notes.js', async: true }
+                ]
+            });
+        </script>
+    </body>
+
+</html>
