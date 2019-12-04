@@ -149,6 +149,7 @@ Les ressources mises en avant par Dominique Cardon dans son MOOC sont aussi une 
     - LE meilleur cours pour apprendre l'informatique, CS50 est disponible sur [YT](https://youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) et via un [MOOC](https://edx.org/course/cs50s-introduction-to-computer-science) avec des exercices pratiques utilisant un super [IDE](https://ide.cs50.io/).
     - Pour s'initier à la programmation web, [codecademy.com](https://codecademy.com/) permet d'apprendre par la pratique, en obtenant très vite des résultats concrets (site internet, applications web...)
     - Pour la manipulation de données, les quelques cours gratuits d'[udacity.com](https://udacity.com/courses/all) sont géniaux (cocher "free courses"). Je recommande (du + simple au + complexe):
+      - [Intro to Python](https://udacity.com/course/introduction-to-python--ud1110)
       - [Intro to data analysis](https://udacity.com/course/intro-to-data-analysis--ud170)
       - [Intro to data science](https://udacity.com/course/intro-to-data-science--ud359)
       - [Intro to machine learning](https://udacity.com/course/intro-to-machine-learning--ud120)
